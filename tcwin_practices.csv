@@ -1,0 +1,51 @@
+practice_id,name,category,origin_era,start_year,current_prevalence,geographic_spread,preservation_risk,associated_concepts
+TCWIN_CP_001,Diwali,Art,Medieval,1000,0.5625926774630648,National,Low,['Dharma']
+TCWIN_CP_002,Pongal,Festival,Medieval,1000,0.7477849380431034,Local,Low,"['Moksha', 'Natya']"
+TCWIN_CP_003,Holi,Art,Classical,0,0.664930096944661,Local,Medium,"['Vastu', 'Karma']"
+TCWIN_CP_004,Dussehra,Festival,Vedic,-1500,0.22109357959780163,Local,Medium,['Karma']
+TCWIN_CP_005,Karva Chauth,Festival,Classical,0,0.5013911759503527,Regional,High,['Natya']
+TCWIN_CP_006,Dussehra,Festival,Classical,0,0.8706629637689103,Regional,Low,"['Dharma', 'Ayurveda', 'Sangita']"
+TCWIN_CP_007,Durga Puja,Festival,Medieval,1000,0.6274770200235704,Local,Medium,"['Ayurveda', 'Sangita', 'Ayurveda']"
+TCWIN_CP_008,Pongal,Ritual,Vedic,-1500,0.8797179125419292,Local,Low,"['Tantra', 'Dharma']"
+TCWIN_CP_009,Dussehra,Festival,Vedic,-1500,0.3657821192064452,Local,Low,"['Vastu', 'Sangita']"
+TCWIN_CP_010,Holi,Ritual,Epic,-500,0.5809685574312113,National,High,"['Dharma', 'Natya']"
+TCWIN_CP_011,Onam,Ritual,Vedic,-1500,0.9013228821266761,Local,Low,"['Sangita', 'Ayurveda', 'Ayurveda']"
+TCWIN_CP_012,Durga Puja,Custom,Epic,-500,0.3703713292071286,Regional,Medium,"['Karma', 'Karma']"
+TCWIN_CP_013,Holi,Custom,Epic,-500,0.5499799376189833,National,Medium,['Natya']
+TCWIN_CP_014,Diwali,Custom,Medieval,1000,0.5172342258570162,National,Medium,"['Dharma', 'Ayurveda', 'Yoga']"
+TCWIN_CP_015,Holi,Festival,Medieval,1000,0.5936930344636306,International,Low,"['Natya', 'Ayurveda']"
+TCWIN_CP_016,Holi,Ritual,Vedic,-1500,0.7067206834533806,International,High,"['Tantra', 'Sangita', 'Sangita']"
+TCWIN_CP_017,Karva Chauth,Custom,Classical,0,0.31106173811952814,International,Low,"['Moksha', 'Karma', 'Vedanta']"
+TCWIN_CP_018,Dussehra,Festival,Classical,0,0.33514805045773166,International,Medium,['Natya']
+TCWIN_CP_019,Pongal,Festival,Epic,-500,0.6275388029860185,International,Medium,"['Karma', 'Dharma']"
+TCWIN_CP_020,Durga Puja,Festival,Epic,-500,0.4572662117440232,Regional,Low,"['Tantra', 'Natya', 'Vastu']"
+TCWIN_CP_021,Durga Puja,Custom,Classical,0,0.5018287721936581,Local,Medium,['Vastu']
+TCWIN_CP_022,Diwali,Festival,Classical,0,0.9890055966934521,National,High,"['Vedanta', 'Sangita']"
+TCWIN_CP_023,Durga Puja,Ritual,Medieval,1000,0.7979767505070052,Regional,High,"['Sangita', 'Moksha', 'Sangita']"
+TCWIN_CP_024,Durga Puja,Custom,Classical,0,0.22437772218687535,Regional,Medium,"['Moksha', 'Moksha']"
+TCWIN_CP_025,Ganesh Chaturthi,Festival,Medieval,1000,0.7899241648750552,International,Medium,"['Tantra', 'Dharma', 'Sangita']"
+TCWIN_CP_026,Durga Puja,Ritual,Epic,-500,0.295809705455401,Local,Low,['Yoga']
+TCWIN_CP_027,Holi,Festival,Classical,0,0.5987537591432459,National,High,"['Karma', 'Vastu']"
+TCWIN_CP_028,Karva Chauth,Art,Vedic,-1500,0.302064242236451,Local,Low,"['Yoga', 'Vedanta']"
+TCWIN_CP_029,Karva Chauth,Custom,Epic,-500,0.484877380718277,Local,Medium,['Tantra']
+TCWIN_CP_030,Diwali,Ritual,Vedic,-1500,0.3802662381700226,Regional,High,"['Vastu', 'Sangita']"
+TCWIN_CP_031,Diwali,Custom,Classical,0,0.6196091116562037,International,Low,"['Natya', 'Karma', 'Yoga']"
+TCWIN_CP_032,Onam,Art,Classical,0,0.20424000511808435,Regional,Low,"['Vastu', 'Natya']"
+TCWIN_CP_033,Dussehra,Festival,Epic,-500,0.774765816669243,National,Medium,"['Ayurveda', 'Natya', 'Vedanta']"
+TCWIN_CP_034,Durga Puja,Custom,Medieval,1000,0.35960554187065585,International,Low,"['Dharma', 'Vedanta', 'Natya']"
+TCWIN_CP_035,Pongal,Custom,Epic,-500,0.9456114738055474,Local,High,"['Dharma', 'Natya', 'Karma']"
+TCWIN_CP_036,Karva Chauth,Festival,Epic,-500,0.25069997637821423,International,Medium,['Vastu']
+TCWIN_CP_037,Holi,Festival,Medieval,1000,0.3110598187536163,Local,Low,['Vastu']
+TCWIN_CP_038,Durga Puja,Custom,Classical,0,0.4790946132343963,Local,Low,"['Karma', 'Ayurveda']"
+TCWIN_CP_039,Karva Chauth,Festival,Classical,0,0.3640014480425898,National,High,['Vastu']
+TCWIN_CP_040,Karva Chauth,Art,Epic,-500,0.8734630214066177,International,High,['Ayurveda']
+TCWIN_CP_041,Durga Puja,Ritual,Medieval,1000,0.8601061413542379,Local,Low,"['Vedanta', 'Yoga', 'Tantra']"
+TCWIN_CP_042,Pongal,Festival,Epic,-500,0.7463856507337059,International,High,"['Moksha', 'Natya']"
+TCWIN_CP_043,Diwali,Custom,Classical,0,0.6021763120739834,Local,Low,['Sangita']
+TCWIN_CP_044,Holi,Festival,Epic,-500,0.9251776887716376,National,High,"['Natya', 'Natya', 'Moksha']"
+TCWIN_CP_045,Ganesh Chaturthi,Art,Classical,0,0.7549740859226708,International,High,"['Dharma', 'Yoga', 'Sangita']"
+TCWIN_CP_046,Dussehra,Festival,Medieval,1000,0.321339903786201,Local,Low,['Sangita']
+TCWIN_CP_047,Diwali,Art,Epic,-500,0.6559117478970533,Regional,Low,"['Vedanta', 'Dharma', 'Natya']"
+TCWIN_CP_048,Durga Puja,Custom,Vedic,-1500,0.5030572524455326,Local,High,['Vastu']
+TCWIN_CP_049,Pongal,Custom,Vedic,-1500,0.5271641416683945,Local,Medium,"['Moksha', 'Moksha', 'Yoga']"
+TCWIN_CP_050,Onam,Custom,Epic,-500,0.6792234918218611,International,High,"['Vedanta', 'Vastu']"

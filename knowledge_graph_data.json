@@ -1,0 +1,530 @@
+{
+  "nodes": [
+    {
+      "id": "Sangita",
+      "type": "concept",
+      "frequency": 14,
+      "size": 70,
+      "color": "#FF6B6B"
+    },
+    {
+      "id": "Yoga",
+      "type": "concept",
+      "frequency": 14,
+      "size": 70,
+      "color": "#FF6B6B"
+    },
+    {
+      "id": "Vedanta",
+      "type": "concept",
+      "frequency": 12,
+      "size": 60,
+      "color": "#FF6B6B"
+    },
+    {
+      "id": "Ayurveda",
+      "type": "concept",
+      "frequency": 11,
+      "size": 55,
+      "color": "#FF6B6B"
+    },
+    {
+      "id": "Moksha",
+      "type": "concept",
+      "frequency": 10,
+      "size": 50,
+      "color": "#FF6B6B"
+    },
+    {
+      "id": "Natya",
+      "type": "concept",
+      "frequency": 9,
+      "size": 45,
+      "color": "#FF6B6B"
+    },
+    {
+      "id": "Tantra",
+      "type": "concept",
+      "frequency": 9,
+      "size": 45,
+      "color": "#FF6B6B"
+    },
+    {
+      "id": "Vastu",
+      "type": "concept",
+      "frequency": 7,
+      "size": 35,
+      "color": "#FF6B6B"
+    },
+    {
+      "id": "Karma",
+      "type": "concept",
+      "frequency": 7,
+      "size": 35,
+      "color": "#FF6B6B"
+    },
+    {
+      "id": "Dharma",
+      "type": "concept",
+      "frequency": 7,
+      "size": 35,
+      "color": "#FF6B6B"
+    },
+    {
+      "id": "practice_TCWIN_CP_001",
+      "type": "practice",
+      "name": "Diwali",
+      "prevalence": 0.5625926774630648,
+      "size": 11.251853549261297,
+      "color": "#4ECDC4"
+    },
+    {
+      "id": "practice_TCWIN_CP_002",
+      "type": "practice",
+      "name": "Pongal",
+      "prevalence": 0.7477849380431034,
+      "size": 14.955698760862068,
+      "color": "#4ECDC4"
+    },
+    {
+      "id": "practice_TCWIN_CP_003",
+      "type": "practice",
+      "name": "Holi",
+      "prevalence": 0.664930096944661,
+      "size": 13.29860193889322,
+      "color": "#4ECDC4"
+    },
+    {
+      "id": "practice_TCWIN_CP_004",
+      "type": "practice",
+      "name": "Dussehra",
+      "prevalence": 0.22109357959780163,
+      "size": 4.421871591956032,
+      "color": "#4ECDC4"
+    },
+    {
+      "id": "practice_TCWIN_CP_005",
+      "type": "practice",
+      "name": "Karva Chauth",
+      "prevalence": 0.5013911759503527,
+      "size": 10.027823519007054,
+      "color": "#4ECDC4"
+    },
+    {
+      "id": "practice_TCWIN_CP_006",
+      "type": "practice",
+      "name": "Dussehra",
+      "prevalence": 0.8706629637689103,
+      "size": 17.413259275378206,
+      "color": "#4ECDC4"
+    },
+    {
+      "id": "practice_TCWIN_CP_007",
+      "type": "practice",
+      "name": "Durga Puja",
+      "prevalence": 0.6274770200235704,
+      "size": 12.549540400471408,
+      "color": "#4ECDC4"
+    },
+    {
+      "id": "practice_TCWIN_CP_008",
+      "type": "practice",
+      "name": "Pongal",
+      "prevalence": 0.8797179125419292,
+      "size": 17.594358250838585,
+      "color": "#4ECDC4"
+    },
+    {
+      "id": "practice_TCWIN_CP_009",
+      "type": "practice",
+      "name": "Dussehra",
+      "prevalence": 0.3657821192064452,
+      "size": 7.315642384128904,
+      "color": "#4ECDC4"
+    },
+    {
+      "id": "practice_TCWIN_CP_010",
+      "type": "practice",
+      "name": "Holi",
+      "prevalence": 0.5809685574312113,
+      "size": 11.619371148624227,
+      "color": "#4ECDC4"
+    },
+    {
+      "id": "practice_TCWIN_CP_011",
+      "type": "practice",
+      "name": "Onam",
+      "prevalence": 0.9013228821266761,
+      "size": 18.026457642533522,
+      "color": "#4ECDC4"
+    },
+    {
+      "id": "practice_TCWIN_CP_012",
+      "type": "practice",
+      "name": "Durga Puja",
+      "prevalence": 0.3703713292071286,
+      "size": 7.407426584142573,
+      "color": "#4ECDC4"
+    },
+    {
+      "id": "practice_TCWIN_CP_013",
+      "type": "practice",
+      "name": "Holi",
+      "prevalence": 0.5499799376189833,
+      "size": 10.999598752379667,
+      "color": "#4ECDC4"
+    },
+    {
+      "id": "practice_TCWIN_CP_014",
+      "type": "practice",
+      "name": "Diwali",
+      "prevalence": 0.5172342258570162,
+      "size": 10.344684517140323,
+      "color": "#4ECDC4"
+    },
+    {
+      "id": "practice_TCWIN_CP_015",
+      "type": "practice",
+      "name": "Holi",
+      "prevalence": 0.5936930344636306,
+      "size": 11.873860689272613,
+      "color": "#4ECDC4"
+    },
+    {
+      "id": "practice_TCWIN_CP_016",
+      "type": "practice",
+      "name": "Holi",
+      "prevalence": 0.7067206834533806,
+      "size": 14.134413669067612,
+      "color": "#4ECDC4"
+    },
+    {
+      "id": "practice_TCWIN_CP_017",
+      "type": "practice",
+      "name": "Karva Chauth",
+      "prevalence": 0.31106173811952814,
+      "size": 6.221234762390563,
+      "color": "#4ECDC4"
+    },
+    {
+      "id": "practice_TCWIN_CP_018",
+      "type": "practice",
+      "name": "Dussehra",
+      "prevalence": 0.33514805045773166,
+      "size": 6.702961009154633,
+      "color": "#4ECDC4"
+    },
+    {
+      "id": "practice_TCWIN_CP_019",
+      "type": "practice",
+      "name": "Pongal",
+      "prevalence": 0.6275388029860185,
+      "size": 12.55077605972037,
+      "color": "#4ECDC4"
+    },
+    {
+      "id": "practice_TCWIN_CP_020",
+      "type": "practice",
+      "name": "Durga Puja",
+      "prevalence": 0.4572662117440232,
+      "size": 9.145324234880464,
+      "color": "#4ECDC4"
+    },
+    {
+      "id": "practice_TCWIN_CP_021",
+      "type": "practice",
+      "name": "Durga Puja",
+      "prevalence": 0.5018287721936581,
+      "size": 10.036575443873161,
+      "color": "#4ECDC4"
+    },
+    {
+      "id": "practice_TCWIN_CP_022",
+      "type": "practice",
+      "name": "Diwali",
+      "prevalence": 0.9890055966934521,
+      "size": 19.780111933869044,
+      "color": "#4ECDC4"
+    },
+    {
+      "id": "practice_TCWIN_CP_023",
+      "type": "practice",
+      "name": "Durga Puja",
+      "prevalence": 0.7979767505070052,
+      "size": 15.959535010140105,
+      "color": "#4ECDC4"
+    },
+    {
+      "id": "practice_TCWIN_CP_024",
+      "type": "practice",
+      "name": "Durga Puja",
+      "prevalence": 0.22437772218687535,
+      "size": 4.487554443737507,
+      "color": "#4ECDC4"
+    },
+    {
+      "id": "practice_TCWIN_CP_025",
+      "type": "practice",
+      "name": "Ganesh Chaturthi",
+      "prevalence": 0.7899241648750552,
+      "size": 15.798483297501104,
+      "color": "#4ECDC4"
+    },
+    {
+      "id": "practice_TCWIN_CP_026",
+      "type": "practice",
+      "name": "Durga Puja",
+      "prevalence": 0.295809705455401,
+      "size": 5.9161941091080195,
+      "color": "#4ECDC4"
+    },
+    {
+      "id": "practice_TCWIN_CP_027",
+      "type": "practice",
+      "name": "Holi",
+      "prevalence": 0.5987537591432459,
+      "size": 11.975075182864918,
+      "color": "#4ECDC4"
+    },
+    {
+      "id": "practice_TCWIN_CP_028",
+      "type": "practice",
+      "name": "Karva Chauth",
+      "prevalence": 0.302064242236451,
+      "size": 6.04128484472902,
+      "color": "#4ECDC4"
+    },
+    {
+      "id": "practice_TCWIN_CP_029",
+      "type": "practice",
+      "name": "Karva Chauth",
+      "prevalence": 0.484877380718277,
+      "size": 9.69754761436554,
+      "color": "#4ECDC4"
+    },
+    {
+      "id": "practice_TCWIN_CP_030",
+      "type": "practice",
+      "name": "Diwali",
+      "prevalence": 0.3802662381700226,
+      "size": 7.605324763400452,
+      "color": "#4ECDC4"
+    },
+    {
+      "id": "practice_TCWIN_CP_031",
+      "type": "practice",
+      "name": "Diwali",
+      "prevalence": 0.6196091116562037,
+      "size": 12.392182233124075,
+      "color": "#4ECDC4"
+    },
+    {
+      "id": "practice_TCWIN_CP_032",
+      "type": "practice",
+      "name": "Onam",
+      "prevalence": 0.20424000511808435,
+      "size": 4.084800102361687,
+      "color": "#4ECDC4"
+    },
+    {
+      "id": "practice_TCWIN_CP_033",
+      "type": "practice",
+      "name": "Dussehra",
+      "prevalence": 0.774765816669243,
+      "size": 15.49531633338486,
+      "color": "#4ECDC4"
+    },
+    {
+      "id": "practice_TCWIN_CP_034",
+      "type": "practice",
+      "name": "Durga Puja",
+      "prevalence": 0.35960554187065585,
+      "size": 7.192110837413117,
+      "color": "#4ECDC4"
+    },
+    {
+      "id": "practice_TCWIN_CP_035",
+      "type": "practice",
+      "name": "Pongal",
+      "prevalence": 0.9456114738055474,
+      "size": 18.912229476110948,
+      "color": "#4ECDC4"
+    },
+    {
+      "id": "practice_TCWIN_CP_036",
+      "type": "practice",
+      "name": "Karva Chauth",
+      "prevalence": 0.25069997637821423,
+      "size": 5.013999527564285,
+      "color": "#4ECDC4"
+    },
+    {
+      "id": "practice_TCWIN_CP_037",
+      "type": "practice",
+      "name": "Holi",
+      "prevalence": 0.3110598187536163,
+      "size": 6.221196375072326,
+      "color": "#4ECDC4"
+    },
+    {
+      "id": "practice_TCWIN_CP_038",
+      "type": "practice",
+      "name": "Durga Puja",
+      "prevalence": 0.4790946132343963,
+      "size": 9.581892264687927,
+      "color": "#4ECDC4"
+    },
+    {
+      "id": "practice_TCWIN_CP_039",
+      "type": "practice",
+      "name": "Karva Chauth",
+      "prevalence": 0.3640014480425898,
+      "size": 7.280028960851796,
+      "color": "#4ECDC4"
+    },
+    {
+      "id": "practice_TCWIN_CP_040",
+      "type": "practice",
+      "name": "Karva Chauth",
+      "prevalence": 0.8734630214066177,
+      "size": 17.469260428132355,
+      "color": "#4ECDC4"
+    },
+    {
+      "id": "practice_TCWIN_CP_041",
+      "type": "practice",
+      "name": "Durga Puja",
+      "prevalence": 0.8601061413542379,
+      "size": 17.202122827084757,
+      "color": "#4ECDC4"
+    },
+    {
+      "id": "practice_TCWIN_CP_042",
+      "type": "practice",
+      "name": "Pongal",
+      "prevalence": 0.7463856507337059,
+      "size": 14.927713014674119,
+      "color": "#4ECDC4"
+    },
+    {
+      "id": "practice_TCWIN_CP_043",
+      "type": "practice",
+      "name": "Diwali",
+      "prevalence": 0.6021763120739834,
+      "size": 12.043526241479668,
+      "color": "#4ECDC4"
+    },
+    {
+      "id": "practice_TCWIN_CP_044",
+      "type": "practice",
+      "name": "Holi",
+      "prevalence": 0.9251776887716376,
+      "size": 18.503553775432753,
+      "color": "#4ECDC4"
+    },
+    {
+      "id": "practice_TCWIN_CP_045",
+      "type": "practice",
+      "name": "Ganesh Chaturthi",
+      "prevalence": 0.7549740859226708,
+      "size": 15.099481718453415,
+      "color": "#4ECDC4"
+    },
+    {
+      "id": "practice_TCWIN_CP_046",
+      "type": "practice",
+      "name": "Dussehra",
+      "prevalence": 0.321339903786201,
+      "size": 6.42679807572402,
+      "color": "#4ECDC4"
+    },
+    {
+      "id": "practice_TCWIN_CP_047",
+      "type": "practice",
+      "name": "Diwali",
+      "prevalence": 0.6559117478970533,
+      "size": 13.118234957941066,
+      "color": "#4ECDC4"
+    },
+    {
+      "id": "practice_TCWIN_CP_048",
+      "type": "practice",
+      "name": "Durga Puja",
+      "prevalence": 0.5030572524455326,
+      "size": 10.061145048910651,
+      "color": "#4ECDC4"
+    },
+    {
+      "id": "practice_TCWIN_CP_049",
+      "type": "practice",
+      "name": "Pongal",
+      "prevalence": 0.5271641416683945,
+      "size": 10.54328283336789,
+      "color": "#4ECDC4"
+    },
+    {
+      "id": "practice_TCWIN_CP_050",
+      "type": "practice",
+      "name": "Onam",
+      "prevalence": 0.6792234918218611,
+      "size": 13.584469836437222,
+      "color": "#4ECDC4"
+    }
+  ],
+  "edges": [
+    {
+      "source": "Sangita",
+      "target": "Yoga",
+      "weight": 0.5,
+      "relationship": "conceptual"
+    },
+    {
+      "source": "Yoga",
+      "target": "Vedanta",
+      "weight": 0.5,
+      "relationship": "conceptual"
+    },
+    {
+      "source": "Vedanta",
+      "target": "Ayurveda",
+      "weight": 0.5,
+      "relationship": "conceptual"
+    },
+    {
+      "source": "Ayurveda",
+      "target": "Moksha",
+      "weight": 0.5,
+      "relationship": "conceptual"
+    },
+    {
+      "source": "Moksha",
+      "target": "Natya",
+      "weight": 0.5,
+      "relationship": "conceptual"
+    },
+    {
+      "source": "Natya",
+      "target": "Tantra",
+      "weight": 0.5,
+      "relationship": "conceptual"
+    },
+    {
+      "source": "Tantra",
+      "target": "Vastu",
+      "weight": 0.5,
+      "relationship": "conceptual"
+    },
+    {
+      "source": "Vastu",
+      "target": "Karma",
+      "weight": 0.5,
+      "relationship": "conceptual"
+    },
+    {
+      "source": "Karma",
+      "target": "Dharma",
+      "weight": 0.5,
+      "relationship": "conceptual"
+    }
+  ]
+}

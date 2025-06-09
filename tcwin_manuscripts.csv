@@ -1,0 +1,101 @@
+manuscript_id,title,content_snippet,era,estimated_year,region,word_count,preservation_state,concept_category,analysis_priority
+TCWIN_MS_001,Sanskrit Text 1,वसुधैव कुटुम्बकम्,Medieval,1348,Central,3592,Fair,Vedanta,Medium
+TCWIN_MS_002,Sanskrit Text 2,वसुधैव कुटुम्बकम्,Classical,214,East,3944,Poor,Vastu,High
+TCWIN_MS_003,Sanskrit Text 3,सत्यमेव जयते,Classical,661,South,2891,Poor,Natya,High
+TCWIN_MS_004,Sanskrit Text 4,अहिंसा परमो धर्मः,Epic,-309,Central,1684,Poor,Vedanta,High
+TCWIN_MS_005,Sanskrit Text 5,वसुधैव कुटुम्बकम्,Modern,1995,East,3058,Good,Moksha,Medium
+TCWIN_MS_006,Sanskrit Text 6,अहिंसा परमो धर्मः,Medieval,1054,North,3702,Excellent,Moksha,Low
+TCWIN_MS_007,Sanskrit Text 7,सर्वे भवन्तु सुखिनः सर्वे सन्तु निरामयाः,Colonial,1828,West,1100,Poor,Karma,Low
+TCWIN_MS_008,Sanskrit Text 8,सर्वे भवन्तु सुखिनः सर्वे सन्तु निरामयाः,Epic,-236,Central,1863,Poor,Sangita,Medium
+TCWIN_MS_009,Sanskrit Text 9,वसुधैव कुटुम्बकम्,Medieval,1263,North,2455,Good,Vastu,Medium
+TCWIN_MS_010,Sanskrit Text 10,सर्वे भवन्तु सुखिनः सर्वे सन्तु निरामयाः,Medieval,1001,West,2000,Fair,Karma,High
+TCWIN_MS_011,Sanskrit Text 11,सर्वे भवन्तु सुखिनः सर्वे सन्तु निरामयाः,Epic,-457,South,2481,Poor,Vastu,High
+TCWIN_MS_012,Sanskrit Text 12,सत्यमेव जयते,Modern,2008,Central,837,Fair,Ayurveda,Low
+TCWIN_MS_013,Sanskrit Text 13,अहिंसा परमो धर्मः,Epic,-284,West,879,Excellent,Tantra,High
+TCWIN_MS_014,Sanskrit Text 14,सत्यमेव जयते,Colonial,1514,North,3068,Poor,Dharma,High
+TCWIN_MS_015,Sanskrit Text 15,वसुधैव कुटुम्बकम्,Medieval,1135,East,891,Fair,Moksha,High
+TCWIN_MS_016,Sanskrit Text 16,सत्यमेव जयते,Vedic,-1122,South,2778,Good,Tantra,High
+TCWIN_MS_017,Sanskrit Text 17,योगश्चित्तवृत्तिनिरोधः,Medieval,1134,West,3604,Poor,Sangita,High
+TCWIN_MS_018,Sanskrit Text 18,वसुधैव कुटुम्बकम्,Modern,1983,West,3273,Fair,Moksha,Medium
+TCWIN_MS_019,Sanskrit Text 19,सत्यमेव जयते,Vedic,-762,East,4340,Excellent,Vedanta,Medium
+TCWIN_MS_020,Sanskrit Text 20,योगश्चित्तवृत्तिनिरोधः,Modern,1973,South,1984,Fair,Sangita,Low
+TCWIN_MS_021,Sanskrit Text 21,सत्यमेव जयते,Vedic,-937,West,2257,Excellent,Sangita,Low
+TCWIN_MS_022,Sanskrit Text 22,वसुधैव कुटुम्बकम्,Colonial,1642,Central,1559,Excellent,Sangita,Medium
+TCWIN_MS_023,Sanskrit Text 23,अहिंसा परमो धर्मः,Classical,242,South,3229,Excellent,Tantra,High
+TCWIN_MS_024,Sanskrit Text 24,अहिंसा परमो धर्मः,Colonial,1633,West,4127,Poor,Vedanta,Medium
+TCWIN_MS_025,Sanskrit Text 25,योगश्चित्तवृत्तिनिरोधः,Medieval,1472,North,1806,Good,Tantra,Medium
+TCWIN_MS_026,Sanskrit Text 26,योगश्चित्तवृत्तिनिरोधः,Medieval,1460,East,1209,Poor,Tantra,High
+TCWIN_MS_027,Sanskrit Text 27,योगश्चित्तवृत्तिनिरोधः,Modern,1983,East,1163,Fair,Natya,Medium
+TCWIN_MS_028,Sanskrit Text 28,योगश्चित्तवृत्तिनिरोधः,Vedic,-809,North,1791,Good,Sangita,Medium
+TCWIN_MS_029,Sanskrit Text 29,योगश्चित्तवृत्तिनिरोधः,Epic,-114,Central,4196,Poor,Dharma,Medium
+TCWIN_MS_030,Sanskrit Text 30,सर्वे भवन्तु सुखिनः सर्वे सन्तु निरामयाः,Classical,112,South,1354,Excellent,Dharma,Medium
+TCWIN_MS_031,Sanskrit Text 31,सर्वे भवन्तु सुखिनः सर्वे सन्तु निरामयाः,Vedic,-1098,Central,2207,Good,Natya,High
+TCWIN_MS_032,Sanskrit Text 32,वसुधैव कुटुम्बकम्,Medieval,1438,East,4996,Fair,Natya,Low
+TCWIN_MS_033,Sanskrit Text 33,सर्वे भवन्तु सुखिनः सर्वे सन्तु निरामयाः,Colonial,1871,East,4082,Poor,Dharma,Medium
+TCWIN_MS_034,Sanskrit Text 34,वसुधैव कुटुम्बकम्,Vedic,-1377,Central,2294,Poor,Yoga,High
+TCWIN_MS_035,Sanskrit Text 35,वसुधैव कुटुम्बकम्,Classical,345,East,3719,Poor,Sangita,Low
+TCWIN_MS_036,Sanskrit Text 36,योगश्चित्तवृत्तिनिरोधः,Medieval,1488,South,3419,Excellent,Tantra,Medium
+TCWIN_MS_037,Sanskrit Text 37,सर्वे भवन्तु सुखिनः सर्वे सन्तु निरामयाः,Vedic,-555,East,762,Poor,Vedanta,Low
+TCWIN_MS_038,Sanskrit Text 38,योगश्चित्तवृत्तिनिरोधः,Vedic,-929,South,4223,Excellent,Ayurveda,Medium
+TCWIN_MS_039,Sanskrit Text 39,योगश्चित्तवृत्तिनिरोधः,Classical,8,East,2182,Poor,Moksha,Medium
+TCWIN_MS_040,Sanskrit Text 40,योगश्चित्तवृत्तिनिरोधः,Medieval,1151,West,2148,Poor,Yoga,High
+TCWIN_MS_041,Sanskrit Text 41,सत्यमेव जयते,Modern,1971,South,4933,Good,Natya,High
+TCWIN_MS_042,Sanskrit Text 42,सत्यमेव जयते,Classical,719,North,4567,Excellent,Yoga,Medium
+TCWIN_MS_043,Sanskrit Text 43,सत्यमेव जयते,Vedic,-1103,West,2027,Poor,Vastu,Medium
+TCWIN_MS_044,Sanskrit Text 44,योगश्चित्तवृत्तिनिरोधः,Classical,400,West,1454,Fair,Natya,High
+TCWIN_MS_045,Sanskrit Text 45,सत्यमेव जयते,Modern,1976,East,2985,Poor,Karma,High
+TCWIN_MS_046,Sanskrit Text 46,योगश्चित्तवृत्तिनिरोधः,Colonial,1785,West,1459,Excellent,Ayurveda,Low
+TCWIN_MS_047,Sanskrit Text 47,वसुधैव कुटुम्बकम्,Medieval,1316,West,3620,Poor,Dharma,Low
+TCWIN_MS_048,Sanskrit Text 48,सत्यमेव जयते,Medieval,1219,Central,3065,Fair,Tantra,Medium
+TCWIN_MS_049,Sanskrit Text 49,सत्यमेव जयते,Colonial,1779,North,801,Excellent,Moksha,High
+TCWIN_MS_050,Sanskrit Text 50,अहिंसा परमो धर्मः,Medieval,1480,Central,1480,Poor,Sangita,High
+TCWIN_MS_051,Sanskrit Text 51,वसुधैव कुटुम्बकम्,Vedic,-1245,South,2316,Good,Natya,High
+TCWIN_MS_052,Sanskrit Text 52,सर्वे भवन्तु सुखिनः सर्वे सन्तु निरामयाः,Epic,-178,South,654,Good,Karma,Low
+TCWIN_MS_053,Sanskrit Text 53,योगश्चित्तवृत्तिनिरोधः,Epic,-228,North,4841,Poor,Sangita,High
+TCWIN_MS_054,Sanskrit Text 54,सर्वे भवन्तु सुखिनः सर्वे सन्तु निरामयाः,Colonial,1669,East,2341,Excellent,Vastu,Medium
+TCWIN_MS_055,Sanskrit Text 55,सर्वे भवन्तु सुखिनः सर्वे सन्तु निरामयाः,Colonial,1815,North,4631,Excellent,Yoga,High
+TCWIN_MS_056,Sanskrit Text 56,अहिंसा परमो धर्मः,Vedic,-725,East,1666,Poor,Karma,Medium
+TCWIN_MS_057,Sanskrit Text 57,वसुधैव कुटुम्बकम्,Epic,-213,North,4269,Fair,Natya,Medium
+TCWIN_MS_058,Sanskrit Text 58,योगश्चित्तवृत्तिनिरोधः,Epic,-443,West,4354,Good,Ayurveda,Low
+TCWIN_MS_059,Sanskrit Text 59,सत्यमेव जयते,Vedic,-1237,West,3551,Poor,Ayurveda,High
+TCWIN_MS_060,Sanskrit Text 60,सत्यमेव जयते,Medieval,1261,West,4642,Fair,Sangita,High
+TCWIN_MS_061,Sanskrit Text 61,सत्यमेव जयते,Medieval,1143,South,1135,Good,Moksha,High
+TCWIN_MS_062,Sanskrit Text 62,वसुधैव कुटुम्बकम्,Vedic,-1381,West,1869,Excellent,Vedanta,Low
+TCWIN_MS_063,Sanskrit Text 63,योगश्चित्तवृत्तिनिरोधः,Colonial,1817,West,1512,Excellent,Vedanta,Low
+TCWIN_MS_064,Sanskrit Text 64,सर्वे भवन्तु सुखिनः सर्वे सन्तु निरामयाः,Epic,-500,North,3843,Excellent,Sangita,Medium
+TCWIN_MS_065,Sanskrit Text 65,सत्यमेव जयते,Colonial,1777,East,3647,Good,Moksha,Medium
+TCWIN_MS_066,Sanskrit Text 66,योगश्चित्तवृत्तिनिरोधः,Colonial,1585,Central,4545,Poor,Ayurveda,Medium
+TCWIN_MS_067,Sanskrit Text 67,अहिंसा परमो धर्मः,Vedic,-1407,Central,3459,Good,Vedanta,High
+TCWIN_MS_068,Sanskrit Text 68,अहिंसा परमो धर्मः,Colonial,1538,North,2257,Excellent,Sangita,Low
+TCWIN_MS_069,Sanskrit Text 69,सत्यमेव जयते,Epic,-491,West,3349,Poor,Vedanta,Medium
+TCWIN_MS_070,Sanskrit Text 70,सर्वे भवन्तु सुखिनः सर्वे सन्तु निरामयाः,Epic,-354,North,1515,Excellent,Yoga,Medium
+TCWIN_MS_071,Sanskrit Text 71,अहिंसा परमो धर्मः,Epic,-4,East,1351,Poor,Karma,Medium
+TCWIN_MS_072,Sanskrit Text 72,योगश्चित्तवृत्तिनिरोधः,Classical,379,North,3238,Fair,Ayurveda,High
+TCWIN_MS_073,Sanskrit Text 73,योगश्चित्तवृत्तिनिरोधः,Medieval,1322,North,4413,Fair,Karma,High
+TCWIN_MS_074,Sanskrit Text 74,वसुधैव कुटुम्बकम्,Colonial,1741,North,4685,Poor,Vedanta,Medium
+TCWIN_MS_075,Sanskrit Text 75,सर्वे भवन्तु सुखिनः सर्वे सन्तु निरामयाः,Epic,-411,East,1116,Fair,Yoga,High
+TCWIN_MS_076,Sanskrit Text 76,सत्यमेव जयते,Epic,-387,East,912,Poor,Yoga,Medium
+TCWIN_MS_077,Sanskrit Text 77,सत्यमेव जयते,Vedic,-1224,North,1175,Good,Ayurveda,High
+TCWIN_MS_078,Sanskrit Text 78,वसुधैव कुटुम्बकम्,Vedic,-581,North,1622,Poor,Yoga,Medium
+TCWIN_MS_079,Sanskrit Text 79,सत्यमेव जयते,Epic,-4,West,3940,Fair,Sangita,High
+TCWIN_MS_080,Sanskrit Text 80,योगश्चित्तवृत्तिनिरोधः,Vedic,-634,North,4452,Good,Yoga,Medium
+TCWIN_MS_081,Sanskrit Text 81,सत्यमेव जयते,Vedic,-1159,East,895,Excellent,Tantra,Medium
+TCWIN_MS_082,Sanskrit Text 82,योगश्चित्तवृत्तिनिरोधः,Classical,75,West,1217,Fair,Yoga,High
+TCWIN_MS_083,Sanskrit Text 83,सत्यमेव जयते,Classical,505,Central,4991,Excellent,Yoga,Medium
+TCWIN_MS_084,Sanskrit Text 84,अहिंसा परमो धर्मः,Classical,468,Central,3722,Poor,Tantra,Medium
+TCWIN_MS_085,Sanskrit Text 85,सर्वे भवन्तु सुखिनः सर्वे सन्तु निरामयाः,Colonial,1680,South,3482,Good,Vedanta,Medium
+TCWIN_MS_086,Sanskrit Text 86,सत्यमेव जयते,Colonial,1662,East,1453,Poor,Dharma,Low
+TCWIN_MS_087,Sanskrit Text 87,सत्यमेव जयते,Colonial,1729,South,3493,Fair,Vedanta,Medium
+TCWIN_MS_088,Sanskrit Text 88,सत्यमेव जयते,Epic,-496,Central,2886,Poor,Dharma,High
+TCWIN_MS_089,Sanskrit Text 89,योगश्चित्तवृत्तिनिरोधः,Modern,1963,Central,1655,Poor,Natya,High
+TCWIN_MS_090,Sanskrit Text 90,वसुधैव कुटुम्बकम्,Medieval,1414,Central,3423,Good,Sangita,High
+TCWIN_MS_091,Sanskrit Text 91,सर्वे भवन्तु सुखिनः सर्वे सन्तु निरामयाः,Classical,713,East,4634,Good,Moksha,Medium
+TCWIN_MS_092,Sanskrit Text 92,सर्वे भवन्तु सुखिनः सर्वे सन्तु निरामयाः,Colonial,1640,West,4209,Good,Yoga,High
+TCWIN_MS_093,Sanskrit Text 93,सत्यमेव जयते,Medieval,1455,North,2458,Excellent,Moksha,Medium
+TCWIN_MS_094,Sanskrit Text 94,योगश्चित्तवृत्तिनिरोधः,Colonial,1847,West,3940,Excellent,Vastu,Medium
+TCWIN_MS_095,Sanskrit Text 95,सत्यमेव जयते,Vedic,-567,South,4127,Excellent,Ayurveda,Medium
+TCWIN_MS_096,Sanskrit Text 96,अहिंसा परमो धर्मः,Modern,2021,Central,1750,Fair,Yoga,Medium
+TCWIN_MS_097,Sanskrit Text 97,योगश्चित्तवृत्तिनिरोधः,Vedic,-1099,North,3986,Excellent,Ayurveda,High
+TCWIN_MS_098,Sanskrit Text 98,योगश्चित्तवृत्तिनिरोधः,Modern,1949,East,1853,Poor,Vastu,High
+TCWIN_MS_099,Sanskrit Text 99,अहिंसा परमो धर्मः,Modern,2022,Central,1645,Poor,Yoga,Medium
+TCWIN_MS_100,Sanskrit Text 100,सर्वे भवन्तु सुखिनः सर्वे सन्तु निरामयाः,Epic,-365,West,1039,Poor,Ayurveda,Medium
